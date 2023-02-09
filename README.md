@@ -12,9 +12,9 @@ This was a complex process, as it required a high level of technical expertise, 
 
 One of the greatest personal challenge that I faced over the course of the project was maintaining the accuracy of the data in the database. Given the large volume of data involved, there was a high risk of data corruption, which would have resulted in inaccurate analysis results. 
 
-To overcome this challenge, the person implemented several data quality control measures, such as data validation checks, data reconciliation processes, and regular data backups, to ensure the accuracy of the data in the database.
+To overcome this challenge, I implemented several data quality control measures, such as data validation checks, data reconciliation processes, and regular data backups, to ensure the accuracy of the data in the database.
 
-This role was invaluable in providing the data necessary to produce meaningful insights and recommendations for the business.
+This was invaluable in providing the data necessary to produce meaningful insights and recommendations for the business.
 
 ## Cohesive written summary:
 
@@ -22,7 +22,7 @@ First, regarding the Tableau visualizations, I contributed through team discussi
 
 I also contributed to the ETL process to clean the dataset in Python by reviewing and commenting on the code, suggesting improvements to the cleaning process, or testing the cleaned data for accuracy. This helped ensure that the data was properly cleaned and prepared for analysis, leading to more reliable results.
 
-Finally, I also contributed to the development of the machine learning model algorithm. This involved reviewing the model and its results, or suggesting improvements to the algorithm. This helped ensure that the machine learning model was robust, accurate, and well-suited to the data, leading to better predictions and insights.
+Finally, I also contributed to the development of the machine learning model algorithm. This involved reviewing the model and its results and suggesting improvements to the algorithm. This helped ensure that the machine learning model was robust, accurate, and well-suited to the data, leading to better predictions and insights.
 
 ## Project Summary:
 
